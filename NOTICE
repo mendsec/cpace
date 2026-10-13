@@ -1,0 +1,10 @@
+cpace
+Copyright (C) 2026 Fabrintek Engenharia Digital Ltda
+
+This product includes software developed at
+Fabrintek Engenharia Digital Ltda (https://fabrintek.com.br).
+
+It implements CPace as specified in draft-irtf-cfrg-cpace-21, "CPace, a
+balanced composable PAKE", by M. Abdalla, B. Haase and J. Hesse. The test
+vectors in vectors_test.go and protocol_test.go are taken from that
+document's appendices A.1 and B.3.
